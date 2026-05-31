@@ -14,7 +14,7 @@
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
     "gsap": "^3.13.0",
-    "next": "15.3.8",
+    "next": "15.5.18",
     "phaser": "^3.90.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -29,5 +29,6 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4"
-  }
+  },
+  "packageManager": "pnpm@11.4.0"
 }
